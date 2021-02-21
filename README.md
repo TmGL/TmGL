@@ -8,6 +8,7 @@ Languages I am decent at:
 - HTML
 
 Languages I am still learning:
+- Go
 - Python
 - Java
 
