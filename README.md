@@ -3,7 +3,8 @@
 I am a developer that pretends to know what they're doing.
 
 Languages I am decent at:
-- Javascript
+- Javascript / Typescript
+- C
 - C#
 - HTML
 
