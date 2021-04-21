@@ -6,7 +6,6 @@ Languages I am decent at:
 - Javascript / Typescript
 - Java
 - C#
-- HTML
 - Python
 
 Languages I am still learning:
